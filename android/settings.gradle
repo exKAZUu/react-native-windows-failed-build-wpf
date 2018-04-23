@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_windows_failed_build_wpf'
+
+include ':app'
